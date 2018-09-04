@@ -1,0 +1,9 @@
+.\list.o: list.c
+.\list.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\list.o: FreeRTOS.h
+.\list.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\list.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\list.o: FreeRTOSConfig.h
+.\list.o: projdefs.h
+.\list.o: portable.h
+.\list.o: deprecated_definitions.h

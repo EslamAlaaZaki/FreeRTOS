@@ -1,0 +1,9 @@
+.\event_groups.o: event_groups.c
+.\event_groups.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\event_groups.o: FreeRTOS.h
+.\event_groups.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\event_groups.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\event_groups.o: FreeRTOSConfig.h
+.\event_groups.o: projdefs.h
+.\event_groups.o: portable.h
+.\event_groups.o: deprecated_definitions.h

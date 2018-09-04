@@ -1,0 +1,10 @@
+.\queue.o: queue.c
+.\queue.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\queue.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\queue.o: FreeRTOS.h
+.\queue.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\queue.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\queue.o: FreeRTOSConfig.h
+.\queue.o: projdefs.h
+.\queue.o: portable.h
+.\queue.o: deprecated_definitions.h

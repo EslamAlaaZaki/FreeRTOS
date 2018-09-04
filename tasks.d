@@ -1,0 +1,10 @@
+.\tasks.o: tasks.c
+.\tasks.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\tasks.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\tasks.o: FreeRTOS.h
+.\tasks.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\tasks.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\tasks.o: FreeRTOSConfig.h
+.\tasks.o: projdefs.h
+.\tasks.o: portable.h
+.\tasks.o: deprecated_definitions.h

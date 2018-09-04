@@ -1,0 +1,84 @@
+Dependencies for Project 'ISC', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x532C4792)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\croutine.h)(0x5A3842D8)()
+F (.\deprecated_definitions.h)(0x5A3842D8)()
+F (.\event_groups.h)(0x5A3842D8)()
+F (.\FreeRTOS.h)(0x5A3842D8)()
+F (.\FreeRTOSConfig.h)(0x5B47784E)()
+F (.\list.h)(0x5A3842D8)()
+F (.\message_buffer.h)(0x5A3842D8)()
+F (.\mpu_prototypes.h)(0x5A3842D8)()
+F (.\mpu_wrappers.h)(0x5A3842D8)()
+F (.\portable.h)(0x5B47787B)()
+F (.\projdefs.h)(0x5A3842D8)()
+F (.\queue.h)(0x5A3842D8)()
+F (.\semphr.h)(0x5A3842D8)()
+F (.\stack_macros.h)(0x5A3842D8)()
+F (.\StackMacros.h)(0x5A3842D8)()
+F (.\stream_buffer.h)(0x5A3842D8)()
+F (.\task.h)(0x5A3842D8)()
+F (.\timers.h)(0x5A3842D8)()
+F (.\croutine.c)(0x5A3842D8)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\croutine.o --omf_browse .\croutine.crf --depend .\croutine.d)
+I (FreeRTOS.h)(0x5A3842D8)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (FreeRTOSConfig.h)(0x5B47784E)
+I (projdefs.h)(0x5A3842D8)
+I (portable.h)(0x5B47787B)
+I (deprecated_definitions.h)(0x5A3842D8)
+F (.\event_groups.c)(0x5A3842D8)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\event_groups.o --omf_browse .\event_groups.crf --depend .\event_groups.d)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (FreeRTOS.h)(0x5A3842D8)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (FreeRTOSConfig.h)(0x5B47784E)
+I (projdefs.h)(0x5A3842D8)
+I (portable.h)(0x5B47787B)
+I (deprecated_definitions.h)(0x5A3842D8)
+F (.\list.c)(0x5A3842D8)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\list.o --omf_browse .\list.crf --depend .\list.d)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (FreeRTOS.h)(0x5A3842D8)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (FreeRTOSConfig.h)(0x5B47784E)
+I (projdefs.h)(0x5A3842D8)
+I (portable.h)(0x5B47787B)
+I (deprecated_definitions.h)(0x5A3842D8)
+F (.\queue.c)(0x5A3842DA)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\queue.o --omf_browse .\queue.crf --depend .\queue.d)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (FreeRTOS.h)(0x5A3842D8)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (FreeRTOSConfig.h)(0x5B47784E)
+I (projdefs.h)(0x5A3842D8)
+I (portable.h)(0x5B47787B)
+I (deprecated_definitions.h)(0x5A3842D8)
+F (.\stream_buffer.c)(0x5A3842DA)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\stream_buffer.o --omf_browse .\stream_buffer.crf --depend .\stream_buffer.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (FreeRTOS.h)(0x5A3842D8)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (FreeRTOSConfig.h)(0x5B47784E)
+I (projdefs.h)(0x5A3842D8)
+I (portable.h)(0x5B47787B)
+I (deprecated_definitions.h)(0x5A3842D8)
+F (.\tasks.c)(0x5A3842DA)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\tasks.o --omf_browse .\tasks.crf --depend .\tasks.d)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (FreeRTOS.h)(0x5A3842D8)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (FreeRTOSConfig.h)(0x5B47784E)
+I (projdefs.h)(0x5A3842D8)
+I (portable.h)(0x5B47787B)
+I (deprecated_definitions.h)(0x5A3842D8)
+F (.\timers.c)(0x5A3842DA)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\timers.o --omf_browse .\timers.crf --depend .\timers.d)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (FreeRTOS.h)(0x5A3842D8)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (FreeRTOSConfig.h)(0x5B47784E)
+I (projdefs.h)(0x5A3842D8)
+I (portable.h)(0x5B47787B)
+I (deprecated_definitions.h)(0x5A3842D8)

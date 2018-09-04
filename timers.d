@@ -1,0 +1,9 @@
+.\timers.o: timers.c
+.\timers.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\timers.o: FreeRTOS.h
+.\timers.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\timers.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\timers.o: FreeRTOSConfig.h
+.\timers.o: projdefs.h
+.\timers.o: portable.h
+.\timers.o: deprecated_definitions.h
